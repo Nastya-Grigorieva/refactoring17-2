@@ -1,7 +1,7 @@
 from PIL import Image
 
 import numpy as np
-img = Image.open("../../../Desktop/fet/img2.jpg")
+img = Image.open("img2.jpg")
 arr = np.array(img)
 a = len(arr)
 a1 = len(arr[1])

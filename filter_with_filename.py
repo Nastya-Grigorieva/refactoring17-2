@@ -45,4 +45,4 @@ def set_color(new_c, matrix, size, i, j):
                 matrix[x][y][z] = new_c
 
 
-get_mosaic("img2.jpg", 10, 50).save('res1.jpg')
+get_mosaic("img2.jpg", 2, 10).save('res1.jpg')

@@ -10,6 +10,7 @@
 ## Исходное изображение:
 ![](img2.jpg)
 ## Изображение после ***old_filter.py***:
-![img.png](screens/resimg1.png)
+![img.png](screens/resimg.png)
 ## Изображение после ***filter_with_filename.py***:
 ![img.png](screens/resimg1.png)
+# Doc-тестов нет.
